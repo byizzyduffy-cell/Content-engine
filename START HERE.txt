@@ -1,0 +1,30 @@
+Welcome to your Clinic Content Engine!
+
+You can't break anything. If you get stuck, just tell Claude what you see.
+
+What you need first
+- A paid Claude plan (Pro or above) and the Claude app on your computer:
+  claude.ai/download
+- About 3 GB of free space, and a few minutes for the first setup.
+
+
+GETTING STARTED ON YOUR MAC
+1. It's a big download (about 200 MB), so give it a few minutes.
+   Double-click it if it hasn't opened already. You'll get a
+   folder called "Clinic Content Engine".
+2. Drag that folder into your Documents folder.
+3. Open the Claude app, click "Code", choose "Clinic Content Engine" from your
+   Documents, and type:   set me up
+4. Claude does the rest. Everything your engine needs is already inside,
+   so there's nothing to install and no password to type.
+
+
+WHEN YOU'RE SET UP
+Say:   plan my month
+Your Starter Plan is already inside your engine: your first 30 days of
+posts, made for your treatments. There's nothing to paste. If you join the
+monthly content plans, each new month's plan comes with a code in the
+members' classroom: type the code into Claude. That's all.
+Other things you can say any time: make my reels, make my talking heads,
+make my posts, make my memes, show me my planner, show me the reel lookbook,
+show me my brand book, help.

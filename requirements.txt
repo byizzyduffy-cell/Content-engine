@@ -1,0 +1,6 @@
+# The engine's Python helpers, installed into its own .venv by "set me up".
+# All open source: NumPy (BSD), OpenCV (Apache 2.0), Pillow (MIT-CMU), segno (BSD).
+numpy>=2.0
+opencv-python-headless>=4.10
+pillow>=11.0
+segno>=1.6

@@ -1,0 +1,211 @@
+{
+  "about": "The treatments students tick in their profile (plan-my-month asks once), grouped by treatment type. 'version' is the pack each treatment's posts come from. The first four in each type are the clickable options; students can type any other. 'note' is a reminder for writing about it; the full careful-wording rules are in engine/treatment-rules.md. Lash and brow, Hair, Nails, Beauty and Teeth whitening (Frances, 2026-11-23: hairdressers, lash techs, nail techs and beauty salons) have no pack of their own yet: starter_plan.py takes their posts from the closest pack (STAND_INS) and plan-my-month rewrites every one fully for their treatment.",
+  "Laser": [
+    {
+      "name": "Laser hair removal",
+      "version": "Laser"
+    },
+    {
+      "name": "IPL hair removal",
+      "version": "Laser"
+    },
+    {
+      "name": "Laser facial",
+      "version": "Skin",
+      "note": "a skin treatment, so it uses the skin version"
+    },
+    {
+      "name": "Tattoo removal",
+      "version": "Tattoo removal",
+      "note": "its own plan version (decided 2026-10-11)"
+    },
+    {
+      "name": "IPL facial",
+      "version": "Skin",
+      "note": "a skin treatment, so it uses the skin version"
+    }
+  ],
+  "Skin": [
+    {
+      "name": "HydraFacial",
+      "version": "Skin"
+    },
+    {
+      "name": "SkinPen microneedling",
+      "version": "Skin",
+      "note": "a course; results build and vary"
+    },
+    {
+      "name": "Chemical peels",
+      "version": "Skin",
+      "note": "a cosmetic treatment: downtime and suitability vary with the peel, so never 'no downtime' unless it's true for theirs"
+    },
+    {
+      "name": "Skin resurfacing",
+      "version": "Skin",
+      "note": "say which resurfacing they mean (a peel, microneedling, laser resurfacing); downtime varies, a consultation first"
+    },
+    {
+      "name": "Dermaplaning",
+      "version": "Skin"
+    },
+    {
+      "name": "Facials",
+      "version": "Skin"
+    },
+    {
+      "name": "LED light therapy",
+      "version": "Skin",
+      "note": "never any acne claims (niche rules)"
+    }
+  ],
+  "Aesthetics": [
+    {
+      "name": "Polynucleotides",
+      "version": "Aesthetics",
+      "note": "a course, results build over weeks and vary; no 'regenerates', 'repairs' or 'boosts collagen' promises"
+    },
+    {
+      "name": "Dermal fillers",
+      "version": "Aesthetics",
+      "note": "never for under-18s; never next to anti-wrinkle injections in the same post"
+    },
+    {
+      "name": "Skin boosters",
+      "version": "Aesthetics",
+      "note": "an injectable: never for under-18s; look-of-the-skin words only"
+    },
+    {
+      "name": "Lip fillers",
+      "version": "Aesthetics"
+    },
+    {
+      "name": "Lines and wrinkles consultations",
+      "version": "Aesthetics",
+      "note": "anti-wrinkle injections can't be advertised: only the consultation is promoted"
+    }
+  ],
+  "Body": [
+    {
+      "name": "Wood therapy",
+      "version": "Body"
+    },
+    {
+      "name": "Lymphatic drainage",
+      "version": "Body",
+      "note": "a gentle massage: never health or detox claims; new or unexplained swelling goes to a healthcare professional first"
+    },
+    {
+      "name": "Fat freezing",
+      "version": "Body"
+    },
+    {
+      "name": "Radiofrequency skin tightening",
+      "version": "Body"
+    },
+    {
+      "name": "Ultrasound cavitation",
+      "version": "Body"
+    },
+    {
+      "name": "EMS body sculpting",
+      "version": "Body"
+    }
+  ],
+  "PMU": [
+    {
+      "name": "Brows",
+      "version": "PMU"
+    },
+    {
+      "name": "Lip blush",
+      "version": "PMU"
+    },
+    {
+      "name": "Eyeliner",
+      "version": "PMU"
+    },
+    {
+      "name": "Scalp micropigmentation",
+      "version": "PMU"
+    }
+  ],
+  "Lash and brow": [
+    {
+      "name": "Lash lift",
+      "version": "Lash and brow"
+    },
+    {
+      "name": "Lash extensions",
+      "version": "Lash and brow"
+    },
+    {
+      "name": "Brow lamination",
+      "version": "Lash and brow"
+    },
+    {
+      "name": "Lash and brow tint",
+      "version": "Lash and brow"
+    }
+  ],
+  "Hair": [
+    {
+      "name": "Colour",
+      "version": "Hair"
+    },
+    {
+      "name": "Balayage",
+      "version": "Hair"
+    },
+    {
+      "name": "Cut and finish",
+      "version": "Hair"
+    },
+    {
+      "name": "Hair extensions",
+      "version": "Hair"
+    }
+  ],
+  "Nails": [
+    {
+      "name": "Gel manicure",
+      "version": "Nails"
+    },
+    {
+      "name": "BIAB",
+      "version": "Nails"
+    },
+    {
+      "name": "Acrylics",
+      "version": "Nails"
+    },
+    {
+      "name": "Pedicure",
+      "version": "Nails"
+    }
+  ],
+  "Beauty": [
+    {
+      "name": "Facials",
+      "version": "Beauty"
+    },
+    {
+      "name": "Waxing",
+      "version": "Beauty"
+    },
+    {
+      "name": "Spray tans",
+      "version": "Beauty"
+    },
+    {
+      "name": "Massage",
+      "version": "Beauty"
+    }
+  ],
+  "Teeth whitening": [
+    {
+      "name": "Teeth whitening",
+      "version": "Teeth whitening"
+    }
+  ]
+}

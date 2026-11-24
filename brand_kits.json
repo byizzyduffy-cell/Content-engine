@@ -1,0 +1,147 @@
+{
+  "_how_it_works": {
+    "what": "Brand kits for b-roll reels (the words on treatment clips). Rebuilt 2026-10-11 to Frances's brief: clean and natural, like text added in Instagram itself. No sound effects, no bounces or leans, footage as filmed. Talking heads use the brand packs in packs.py instead (signed off).",
+    "fonts": "headings: the main words; captions: the call to action",
+    "text_style": "the kit's usual layout: plain (words straight on the video, soft shadow) or ribbon (each line on its own highlight strip, like Instagram's text background). Each month mixes both.",
+    "popup": "the kit's usual call to action: plain (just the words) or box (a clean box). Each month mixes both.",
+    "colours": {
+      "text": "words straight on the video",
+      "highlight": "the one word in CAPITALS, when the words are straight on the video",
+      "strip": "the highlight strips",
+      "strip_text": "words on the strips",
+      "popup_box": "the call-to-action box",
+      "popup_text": "call-to-action words",
+      "soft": "backgrounds for carousels and static posts (later)",
+      "strip_highlight": "the one word in CAPITALS, on the highlight strips"
+    },
+    "own colours": "any kit can take a clinic's own colour palette instead (my_colours), keeping every pairing readable"
+  },
+  "kits": {
+    "nude-luxe": {
+      "name": "Nude Luxe",
+      "vibe": "Warm, elegant and timeless",
+      "suits": "Aesthetics, skin, semi-permanent make-up",
+      "fonts": {
+        "headings": "Playfair Display",
+        "captions": "Poppins"
+      },
+      "text_style": "plain",
+      "popup": "box",
+      "colours": {
+        "text": "#FFFFFF",
+        "highlight": "#EAD7C3",
+        "strip": "#F3EAE0",
+        "strip_text": "#3B3330",
+        "strip_highlight": "#9A6B4F",
+        "popup_box": "#F3EAE0",
+        "popup_text": "#3B3330",
+        "soft": "#FAF6F1"
+      }
+    },
+    "clinical-clean": {
+      "name": "Clinical Clean",
+      "vibe": "Crisp, calm and trustworthy",
+      "suits": "Laser, skin clinics, medical aesthetics",
+      "fonts": {
+        "headings": "Montserrat",
+        "captions": "Inter"
+      },
+      "text_style": "ribbon",
+      "popup": "plain",
+      "colours": {
+        "text": "#FFFFFF",
+        "highlight": "#BFD7EA",
+        "strip": "#FFFFFF",
+        "strip_text": "#1F2A33",
+        "strip_highlight": "#2E6DA4",
+        "popup_box": "#FFFFFF",
+        "popup_text": "#1F2A33",
+        "soft": "#F4F7F9"
+      }
+    },
+    "soft-blush": {
+      "name": "Soft Blush",
+      "vibe": "Gentle, warm and friendly",
+      "suits": "Facials, lashes, brows",
+      "fonts": {
+        "headings": "Fraunces",
+        "captions": "DM Sans"
+      },
+      "text_style": "ribbon",
+      "popup": "box",
+      "colours": {
+        "text": "#FFFFFF",
+        "highlight": "#F2C9C4",
+        "strip": "#F7E4E1",
+        "strip_text": "#4E3335",
+        "strip_highlight": "#B5555A",
+        "popup_box": "#FFFFFF",
+        "popup_text": "#4E3335",
+        "soft": "#FDF5F3"
+      }
+    },
+    "sage-calm": {
+      "name": "Sage Calm",
+      "vibe": "Natural, fresh and soothing",
+      "suits": "Skin health, holistic and body clinics",
+      "fonts": {
+        "headings": "Jost",
+        "captions": "Jost"
+      },
+      "text_style": "plain",
+      "popup": "box",
+      "colours": {
+        "text": "#FFFFFF",
+        "highlight": "#CFE0C8",
+        "strip": "#E4ECDF",
+        "strip_text": "#2F3B2E",
+        "strip_highlight": "#4F6B47",
+        "popup_box": "#E4ECDF",
+        "popup_text": "#2F3B2E",
+        "soft": "#F3F6F0"
+      }
+    },
+    "black-tie": {
+      "name": "Black Tie",
+      "vibe": "Luxurious, confident and polished",
+      "suits": "Premium aesthetics, luxury clinics",
+      "fonts": {
+        "headings": "DM Serif Display",
+        "captions": "Montserrat"
+      },
+      "text_style": "plain",
+      "popup": "box",
+      "colours": {
+        "text": "#FFFFFF",
+        "highlight": "#D9C08A",
+        "strip": "#111111",
+        "strip_text": "#FFFFFF",
+        "strip_highlight": "#D9C08A",
+        "popup_box": "#111111",
+        "popup_text": "#FFFFFF",
+        "soft": "#F5F2EC"
+      }
+    },
+    "bold-bright": {
+      "name": "Bold & Bright",
+      "vibe": "Fun, upbeat and confident",
+      "suits": "Body contouring, lash bars, younger audiences",
+      "fonts": {
+        "headings": "Outfit",
+        "captions": "Outfit"
+      },
+      "text_style": "ribbon",
+      "popup": "plain",
+      "colours": {
+        "text": "#FFFFFF",
+        "highlight": "#FFD3C9",
+        "strip": "#FF6F59",
+        "strip_text": "#FFFFFF",
+        "strip_highlight": "#FFF1A8",
+        "popup_box": "#FF6F59",
+        "popup_text": "#FFFFFF",
+        "soft": "#FFF4F1"
+      }
+    }
+  }
+}

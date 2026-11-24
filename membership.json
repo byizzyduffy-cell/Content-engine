@@ -1,0 +1,13 @@
+{
+  "about": "Frances's monthly subscription: the Clinic Content Plan subscription, £27 a month (2026-11-20: the only thing the engine ever promotes). The design features have their own monthly code in the Engine Extras classroom (design_features_classroom) but are never promoted or sold in the engine. The engine comes with the Starter Plan (the first 30 days). Each month's content plan goes live on drop_day (the 23rd) for the month after, unlocked with a code posted in the members' classroom. From promo_day (the 20th), anyone who isn't signed up is told once that it's dropping on the 23rd and can join now (status.py's PROMO line); from the 23rd, anyone who hasn't unlocked the new plan is asked once whether they've got their code (status.py's OFFER line). On a yes to joining, Claude gives them the checkout link. The first monthly plan is January 2027's (first_monthly_plan; Frances, 2026-11-23: there's no December plan, because the Starter Plan's 30 days carry everyone to the January drop), so nothing is promoted or asked for before it.",
+  "name": "the Clinic Content Plan subscription",
+  "price": "£27 a month",
+  "what_they_get": "a brand new content plan every month, made for the treatments you do (laser, skin, aesthetics, body, PMU, lashes and brows, hair, nails or beauty), which unlocks in your engine with a code to make your next month",
+  "how_to_join": "Once you've joined, your code for each month's plan is posted in the Content Plan Members classroom in the community: you type it into your engine and your new plan unlocks.",
+  "drop_day": 23,
+  "checkout_link": "https://nextgenclinichq.thrivecart.com/clinic-content-engine-content-plan-subscription/",
+  "code_classroom": "Content Plan Members",
+  "promo_day": 20,
+  "design_features_classroom": "Engine Extras",
+  "first_monthly_plan": "2027-01"
+}

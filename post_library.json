@@ -1,0 +1,412 @@
+{
+  "title": "Your post library",
+  "intro": "Every post design your engine can make for you, sorted by what the post is for. Tap a design to see an example and swipe through the slides. Tick the ones you like, then press Save my picks and tell Claude \"make my posts\". New designs are added every month.",
+  "note": "Use these to pick the design of your post. The pictures and words will be yours: your own photos, and words written for your treatments and your clinic.",
+  "categories": [
+    "Review carousels",
+    "Treatment carousels",
+    "Before and after carousels",
+    "Single posts",
+    "Quote posts",
+    "Sale carousels"
+  ],
+  "styles": [
+    {
+      "id": "review-carousel",
+      "name": "Client review carousel",
+      "category": "Review carousels",
+      "recipe": 2,
+      "slides": "10 slides",
+      "about": "Your real Google reviews, made to look just like they do on Google, with a short story under each one, why clients choose you, and a call to book at the end.",
+      "needs": "Your Google reviews (copy and paste them in, or send screenshots) and a few photos of your clinic.",
+      "good_for": "Building trust, especially with people who are nervous about their first appointment.",
+      "keywords": "reviews google testimonials clients trust five star feedback facial skin led laser",
+      "example": "Your Clinic (a sample)",
+      "images": [
+        "My Content/library-samples/review-carousel/slide-*.png"
+      ]
+    },
+    {
+      "id": "elegant-review-carousel",
+      "name": "Elegant review carousel",
+      "category": "Review carousels",
+      "recipe": 6,
+      "slides": "10 slides",
+      "about": "Your Google reviews in a softer, more elegant look: serif headings inside a thin outlined pill, a review card on each slide and a short line from you underneath.",
+      "needs": "Your Google reviews (copy and paste them in, or send screenshots) and a few photos of your clinic.",
+      "good_for": "Building trust with a calm, high-end feel. Lovely for skin, aesthetics and facial clinics.",
+      "keywords": "reviews google testimonials elegant serif pill trust five star skin facial aesthetics",
+      "example": "Your Clinic (a sample)",
+      "images": [
+        "My Content/library-samples/elegant-review-carousel/slide-*.png"
+      ]
+    },
+    {
+      "id": "story-carousel",
+      "name": "Bold words on photos",
+      "category": "Treatment carousels",
+      "recipe": 3,
+      "slides": "6 to 10 slides",
+      "about": "Bold white words centred over a different treatment photo on every slide, with a short line underneath. Clear, strong and easy to read.",
+      "needs": "Clips from your filming day. Photos are taken from them for you, a different one on every slide.",
+      "good_for": "Any treatment. Your words are written fresh for your treatment and your month's plan: only the look stays the same. Lovely for telling a story slide by slide.",
+      "keywords": "bold white words photos centred dark story treatment",
+      "example": "Your Clinic (a sample: the words are just an example)",
+      "images": [
+        "My Content/library-samples/story-carousel/slide-*.png"
+      ]
+    },
+    {
+      "id": "list-carousel",
+      "name": "Same heading, one point a slide",
+      "category": "Treatment carousels",
+      "recipe": 3,
+      "slides": "4 to 6 slides",
+      "about": "The same heading sits on exactly the same line on every slide, with one point underneath each time, over your own photos. Short and easy to swipe.",
+      "needs": "Clips from your filming day. Photos are taken from them for you.",
+      "good_for": "Any treatment. Your words are written fresh for your treatment and your month's plan: only the look stays the same. Lovely for lists and tips.",
+      "keywords": "same heading list points photos tips simple treatment",
+      "example": "Your Clinic (a sample: the words are just an example)",
+      "images": [
+        "My Content/library-samples/list-carousel/slide-*.png"
+      ]
+    },
+    {
+      "id": "education-carousel",
+      "name": "Magazine cover",
+      "category": "Treatment carousels",
+      "recipe": 7,
+      "slides": "9 slides",
+      "about": "A magazine-style cover with words stacked down the side, then a serif heading and a short explanation on each slide, every one starting on the same line, over your photos.",
+      "needs": "Clips or photos from your filming day, a different one on each slide.",
+      "good_for": "Any treatment. Your words are written fresh for your treatment and your month's plan: only the look stays the same. Lovely for tips and teaching.",
+      "keywords": "magazine cover serif heading tips photos teach treatment",
+      "example": "Your Clinic (a sample: the words are just an example)",
+      "images": [
+        "My Content/library-samples/education-carousel/slide-*.png"
+      ]
+    },
+    {
+      "id": "not-for-you-carousel",
+      "name": "Light and clean",
+      "category": "Treatment carousels",
+      "recipe": 8,
+      "slides": "8 slides",
+      "about": "A clean light background with navy words and no photos, one line per slide. Calm, simple and very easy to read.",
+      "needs": "Two photos (cover and last slide). The middle slides are words only.",
+      "good_for": "Any treatment. Your words are written fresh for your treatment and your month's plan: only the look stays the same. Lovely when you haven't got many photos.",
+      "keywords": "light clean background navy words no photos simple treatment",
+      "example": "Your Clinic (a sample: the words are just an example)",
+      "images": [
+        "My Content/library-samples/not-for-you-carousel/slide-*.png"
+      ],
+      "hidden": true
+    },
+    {
+      "id": "swipe-post",
+      "name": "One photo, big statements",
+      "category": "Treatment carousels",
+      "recipe": 5,
+      "slides": "5 to 6 slides",
+      "about": "One photo runs across every slide, with one big statement and a short line underneath on each, building up to your call to action.",
+      "needs": "One photo from your clinic (a treatment or your room). The words come from your plan.",
+      "good_for": "Any treatment. Your words are written fresh for your treatment and your month's plan: only the look stays the same. Lovely for one big idea told slide by slide.",
+      "keywords": "one photo swipe big statement bold treatment",
+      "example": "Your Clinic (a sample: the words are just an example)",
+      "images": [
+        "My Content/library-samples/swipe-post/slide-*.png"
+      ]
+    },
+    {
+      "id": "concern-carousel",
+      "name": "Words at the top",
+      "category": "Treatment carousels",
+      "recipe": 12,
+      "slides": "9 slides",
+      "about": "Bold headings sit at the top of each slide over your treatment photos, with a short line underneath. The cover has a big headline with one word underlined.",
+      "needs": "Clips or photos from your filming day, a different one on each slide.",
+      "good_for": "Any treatment. Your words are written fresh for your treatment and your month's plan: only the look stays the same. Lovely for talking straight to how your clients feel.",
+      "keywords": "words top bold headings underline photos cover treatment",
+      "example": "Your Clinic (a sample: the words are just an example)",
+      "images": [
+        "My Content/library-samples/concern-carousel/slide-*.png"
+      ]
+    },
+    {
+      "id": "awareness-carousel",
+      "name": "Elegant pills",
+      "category": "Treatment carousels",
+      "recipe": 13,
+      "slides": "10 slides",
+      "about": "Elegant serif capitals in the middle of each photo, an italic line underneath, and key points in thin outlined pills. Calm and classy.",
+      "needs": "A photo of a person for the cover and model slides (you, your team or a model you've worked with), plus photos from your filming day. No photo of a person? Claude can make a stand-in model you keep or swap.",
+      "good_for": "Any treatment. Your words are written fresh for your treatment and your month's plan: only the look stays the same. Lovely for lists of benefits or areas you treat.",
+      "keywords": "elegant serif capitals pills outlined italic photos classy treatment",
+      "example": "Your Clinic (a sample: the words are just an example)",
+      "images": [
+        "My Content/library-samples/awareness-carousel/slide-*.png"
+      ],
+      "models": true
+    },
+    {
+      "id": "best-time-carousel",
+      "name": "Numbered light slides",
+      "category": "Treatment carousels",
+      "recipe": 14,
+      "slides": "9 slides",
+      "about": "A photo cover and a photo ending, with numbered points in between on clean light slides with navy words, each starting on the same line.",
+      "needs": "One or two photos for the cover and the last slide. The reason slides are words only.",
+      "good_for": "Any treatment. Your words are written fresh for your treatment and your month's plan: only the look stays the same. Lovely for reasons, steps or tips.",
+      "keywords": "numbered points light slides navy photo cover reasons steps treatment",
+      "example": "Your Clinic (a sample: the words are just an example)",
+      "images": [
+        "My Content/library-samples/best-time-carousel/slide-*.png"
+      ],
+      "hidden": true
+    },
+    {
+      "id": "picture-post",
+      "name": "Picture post: I'm a simple girl…",
+      "category": "Single posts",
+      "recipe": 4,
+      "slides": "1 image",
+      "about": "A fun heading with three pictures, each with a short line underneath. Each picture shows what its line says, cut out so it floats on a clean background.",
+      "needs": "Three quick photos you snap on a plain background (like your machine or a product). Or Claude can make the everyday ones for you, like a razor or a bikini.",
+      "good_for": "Light-hearted posts that show what life looks like with your treatment. Works for laser, lashes, brows, skin, teeth whitening, hair and more.",
+      "keywords": "picture infographic simple girl fun three pictures laser lashes brows teeth whitening hair skin",
+      "example": "Your Clinic (a sample)",
+      "images": [
+        "My Content/library-samples/picture-post/slide-*.png"
+      ]
+    },
+    {
+      "id": "quote-post",
+      "name": "Quote post",
+      "category": "Quote posts",
+      "recipe": 1,
+      "slides": "1 image",
+      "about": "A single quote on a plain background in your lightest brand colour, with the words in your darkest colour and your handle in the corner. Every quote sits in the same place, so your grid looks neat.",
+      "needs": "Nothing. The quote comes from your plan and the colours from your brand.",
+      "good_for": "Relatable, shareable moments that sound like you.",
+      "keywords": "quote static single image words brand colours shareable",
+      "example": "Your Clinic (a sample)",
+      "images": [
+        "My Content/library-samples/quote-post/slide-*.png"
+      ]
+    },
+    {
+      "id": "sale-teaser-carousel",
+      "name": "Sale teaser carousel",
+      "category": "Sale carousels",
+      "recipe": 9,
+      "slides": "7 slides",
+      "about": "Builds excitement before a sale: \"We owe you an apology…\", \"for making you wait this long for Black Friday\", then hints at what's coming, that spaces are limited, and asks them to comment to join the waitlist.",
+      "needs": "Clips or photos from your clinic, a different one on each slide.",
+      "good_for": "The week or two before Black Friday, a birthday sale or any big offer.",
+      "keywords": "sale black friday teaser waitlist offer launch apology excitement build up",
+      "example": "Your Clinic (a sample)",
+      "images": [
+        "My Content/library-samples/sale-teaser-carousel/slide-*.png"
+      ]
+    },
+    {
+      "id": "sale-waitlist-carousel",
+      "name": "Sale waitlist carousel",
+      "category": "Sale carousels",
+      "recipe": 10,
+      "slides": "8 slides",
+      "about": "Big bold headings on the left over your photos, explaining why people should join your sale waitlist: first access, a thank you to loyal clients, and a \"comment WAITLIST\" call to action.",
+      "needs": "Clips or photos from your clinic, a different one on each slide.",
+      "good_for": "Growing a list of people ready to buy before your sale opens.",
+      "keywords": "sale black friday waitlist early access offer comment loyal thank you",
+      "example": "Your Clinic (a sample)",
+      "images": [
+        "My Content/library-samples/sale-waitlist-carousel/slide-*.png"
+      ]
+    },
+    {
+      "id": "sale-review-carousel",
+      "name": "Sale review carousel",
+      "category": "Sale carousels",
+      "recipe": 11,
+      "slides": "10 slides",
+      "about": "Your Google reviews with a sale twist: a bold sale cover with a review, review slides with a short line under each, then \"this week only\", why they can't miss it, and a DM call to action.",
+      "needs": "Your Google reviews and a few photos of your clinic. Your offer details come from you.",
+      "good_for": "When your sale is live: reviews give nervous buyers the confidence to book.",
+      "keywords": "sale black friday reviews google offer this week only trust book",
+      "example": "Your Clinic (a sample)",
+      "images": [
+        "My Content/library-samples/sale-review-carousel/slide-*.png"
+      ]
+    },
+    {
+      "id": "before-after-carousel",
+      "name": "Split-screen results",
+      "category": "Before and after carousels",
+      "recipe": 15,
+      "slides": "8 slides",
+      "about": "A cover with one result framed in the middle over a photo of your clinic, then five slides of before and afters, split top and bottom or side by side, a slide about how far your clients have come, and a call to DM you.",
+      "needs": "Your own before and after photos of your own clients (at least five pairs, taken in the same light and from the same angle), real and unedited, plus a couple of photos of your clinic. Never photos from another clinic, the internet or a product company.",
+      "good_for": "Showing real results from your own clinic, so people can see what's possible with a course of treatment.",
+      "keywords": "before and after results client results transformation progress photos real clients",
+      "example": "Your Clinic (a sample)",
+      "images": [
+        "My Content/library-samples/before-after-carousel/slide-*.png"
+      ]
+    },
+    {
+      "id": "zoom-in-post",
+      "name": "Zoom in for a sign",
+      "category": "Single posts",
+      "recipe": 16,
+      "slides": "1 image",
+      "about": "The \"zoom in for a sign\" trend: big bold words at the top and a hand pinching tiny writing that people zoom in to read, a playful nudge to book in.",
+      "needs": "Nothing. The tiny words come from your plan, in your own voice.",
+      "good_for": "A fun, scroll-stopping post that gets people to stop, zoom in and smile.",
+      "keywords": "zoom in sign trend single post fun playful nudge book tiny writing hand",
+      "example": "Your Clinic (a sample)",
+      "images": [
+        "My Content/library-samples/zoom-in-post/slide-*.png"
+      ]
+    },
+    {
+      "id": "crossed-out-carousel",
+      "name": "Crossed-out excuses",
+      "category": "Treatment carousels",
+      "recipe": 17,
+      "slides": "8 slides",
+      "about": "Each slide is two photos, one above the other. The top half has an excuse crossed out with a line (\"I don't have time for facials\"), and the bottom half has the new way of thinking (\"I make time for feeling like myself again\"). It works for any treatment.",
+      "needs": "Treatment photos or stills from your clips, two for each slide.",
+      "good_for": "Talking someone out of the reasons they keep putting off booking.",
+      "keywords": "excuses crossed out mindset reasons put off booking self care treatment photos two photos",
+      "example": "Your Clinic (a sample)",
+      "images": [
+        "My Content/library-samples/crossed-out-carousel/slide-*.png"
+      ]
+    },
+    {
+      "id": "notes-faq-carousel",
+      "name": "Notes app answers",
+      "category": "Treatment carousels",
+      "recipe": 18,
+      "slides": "12 slides",
+      "about": "Questions and answers that look like screenshots from the Notes app on your phone, over one soft photo. A title slide, ten questions people really ask, and a last slide asking them to DM you. It works for any treatment.",
+      "needs": "One photo of a person for the background (you, your team or a model you've worked with). No photo of a person? Claude can make a stand-in model you keep or swap. The questions and answers come from your plan, in your words.",
+      "good_for": "Answering the questions people are too shy to ask, so they feel ready to book.",
+      "keywords": "faq questions answers notes app screenshot phone iphone common questions treatment",
+      "example": "Your Clinic (a sample)",
+      "images": [
+        "My Content/library-samples/notes-faq-carousel/slide-*.png"
+      ],
+      "models": true
+    },
+    {
+      "id": "review-bubbles-carousel",
+      "name": "Review bubbles",
+      "category": "Review carousels",
+      "recipe": 19,
+      "slides": "11 slides",
+      "about": "\"I've got a text!!!\" on the cover, then a phone full of new Google review notifications, then your reviews as clean white bubbles with gold stars over a photo of your team, a slide about your clinic, \"If you are…\", and a call to DM you.",
+      "needs": "Your Google reviews (copy and paste them in, or send screenshots), a photo of you holding your phone or tablet, and a few photos of your team and clinic.",
+      "good_for": "Showing lots of happy clients at once, so new people feel they're in good hands.",
+      "keywords": "reviews google testimonials notifications phone text five star clients trust bubbles",
+      "example": "Your Clinic (a sample)",
+      "images": [
+        "My Content/library-samples/review-bubbles-carousel/slide-*.png"
+      ]
+    },
+    {
+      "id": "sale-coming-carousel",
+      "name": "Bright sale countdown",
+      "category": "Sale carousels",
+      "recipe": 20,
+      "slides": "7 slides",
+      "about": "Light and airy: big serif capitals over a soft, faded photo. \"The Summer Sale is coming…\" on the cover with the key words glowing, then why this sale is different, who it's for, the feeling it gives, what's coming, and a \"Comment WAITLIST\" call to action.",
+      "needs": "A few bright photos of a person on a plain light background (you, your team or a model you've worked with). No photo of a person? Claude can make a stand-in model you keep or swap. Your offer details come from you.",
+      "good_for": "The weeks before a seasonal sale (summer, Black Friday, a birthday sale), to build a waitlist.",
+      "keywords": "sale summer seasonal waitlist coming soon launch countdown offer bright light comment",
+      "example": "Your Clinic (a sample)",
+      "images": [
+        "My Content/library-samples/sale-coming-carousel/slide-*.png"
+      ],
+      "models": true
+    },
+    {
+      "id": "launch-carousel",
+      "name": "Big reveal",
+      "category": "Treatment carousels",
+      "recipe": 21,
+      "slides": "10 slides",
+      "about": "Dark, moody photos with soft yellow headings, for announcing something new: \"We've been keeping a secret!\", what the treatment combines, \"Introducing…\", what it is, who it's perfect for, and a comment call to action. Works for any new treatment or launch.",
+      "needs": "Photos or short clips of the new treatment, your tools or products, and a selfie or photo of you.",
+      "good_for": "Launching a new treatment or service, or bringing back a favourite.",
+      "keywords": "new treatment launch introducing announcement secret reveal brand new coming soon comment",
+      "example": "Your Clinic (a sample)",
+      "images": [
+        "My Content/library-samples/launch-carousel/slide-*.png"
+      ]
+    },
+    {
+      "id": "sale-shouldnt-carousel",
+      "name": "We probably shouldn't…",
+      "category": "Sale carousels",
+      "recipe": 22,
+      "slides": "8 slides",
+      "about": "Cheeky and bold: \"We probably shouldn't be doing this…\" in big capitals with one word glowing, cut-out photos on a soft grey background, then what's coming, a brand new treatment, the glow-up feeling, waitlist perks, and \"Comment WAITLIST\".",
+      "needs": "Photos of a person on a plain background (you, your team or a model you've worked with; the engine helps cut them out). No photo of a person? Claude can make a stand-in model you keep or swap. Your offer details come from you.",
+      "good_for": "Building excitement and a waitlist before a big sale or a launch.",
+      "keywords": "sale waitlist cheeky shouldnt be doing this teaser launch new treatment summer black friday comment grey cutout",
+      "example": "Your Clinic (a sample)",
+      "images": [
+        "My Content/library-samples/sale-shouldnt-carousel/slide-*.png"
+      ],
+      "models": true
+    },
+    {
+      "id": "meeting-carousel",
+      "name": "The important meeting",
+      "category": "Treatment carousels",
+      "recipe": 23,
+      "slides": "5 slides",
+      "about": "The trend: \"I have an important meeting I can't miss… THE MEETING:\" with a calendar booking for a treatment, one slide per treatment, over a soft photo of that treatment. Playful and quick to swipe.",
+      "needs": "A photo of each treatment you want to show (one per slide). The calendar bookings are made for you.",
+      "good_for": "Showing off a few of your treatments in a fun, relatable way.",
+      "keywords": "meeting trend calendar booking appointment funny relatable treatments fun swipe",
+      "example": "Your Clinic (a sample)",
+      "images": [
+        "My Content/library-samples/meeting-carousel/slide-*.png"
+      ]
+    },
+    {
+      "id": "everyday-carousel",
+      "name": "Soft statements",
+      "category": "Treatment carousels",
+      "recipe": 24,
+      "slides": "9 slides",
+      "about": "Calm and elegant: an italic serif title over a soft photo (\"How laser hair removal makes your everyday life easier…\"), then one everyday moment per slide in bold centred words over the same photo, and a DM call to action at the end.",
+      "needs": "Two or three soft, simple photos of a person (one for the cover, one for the middle slides, one for the end). No photo of a person? Claude can make a stand-in model you keep or swap.",
+      "good_for": "Showing how a treatment fits into real life, in a gentle, relatable way.",
+      "keywords": "everyday life easier benefits relatable moments calm elegant italic statements treatment",
+      "example": "Your Clinic (a sample)",
+      "images": [
+        "My Content/library-samples/everyday-carousel/slide-*.png"
+      ],
+      "models": true
+    },
+    {
+      "id": "lymphatic-carousel",
+      "name": "Hand-drawn underline",
+      "category": "Treatment carousels",
+      "recipe": 25,
+      "slides": "10 slides",
+      "about": "Big bold serif words on softly darkened treatment photos. The cover has a hand-drawn line under the key words (\"Everyone talks about fat loss…\"), then a slide for the problem, how the treatment helps, one benefit per slide in the middle, and a comment call to action. Works for any treatment you want to explain.",
+      "needs": "Photos or short clips of the treatment being done, plus a photo of your tools, products or room for the benefit slides.",
+      "good_for": "Explaining what a treatment does and why it helps, especially one people haven't heard much about.",
+      "keywords": "education explain benefits what is how it works body lymphatic drainage wood therapy underline bold photos comment",
+      "example": "Your Clinic (a sample)",
+      "images": [
+        "My Content/library-samples/lymphatic-carousel/slide-*.png"
+      ]
+    }
+  ]
+}
